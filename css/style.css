@@ -1,0 +1,10 @@
+.container{
+    max-width: 600px;
+    
+}
+.col-sm,.card{
+    margin-top: 1em;
+}
+.card-header{
+    font-weight: 700;
+}
